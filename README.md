@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FFC300&center=true&vCenter=true&width=750&lines=CSE+(Data+Science)+Student;Machine+Learning+%26+AI+Developer;YOLOv8+%26+Computer+Vision+Enthusiast;Building+Real-World+ML+Applications;Open+to+Internships+%26+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FFC300&center=true&vCenter=true&width=750&lines=Intern+at+Cdac+Hyderabad;Machine+Learning+%26+AI+Developer;YOLOv8+%26+Computer+Vision+Enthusiast;Building+Real-World+ML+Applications;Open+to+Internships+%26+Opportunities" />
 </p>
 
 <p align="center">
