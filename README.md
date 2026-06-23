@@ -24,6 +24,17 @@
 ---
 
 ## 💼 Experience
+### 🤖 AI/ML Research Intern – C-DAC Hyderabad
+📅 February 2026 – Present
+
+- Working as an AI ML Research Intern at C DAC Hyderabad and contributing to research and development activities in Artificial Intelligence, Machine Learning, Deep Learning and Data Science.
+- Responsibilities include data collection preprocessing and analysis of large scale datasets, feature engineering, model development training and evaluation using Python, PyTorch, TensorFlow and Scikit learn.
+- Developing data pipelines and inference workflows, conducting statistical analysis and performance evaluation, implementing Computer Vision and predictive analytics solutions, and contributing to technical documentation proof of concept development and deployment of AI driven applications.
+- Exploring Quantum Machine Learning (QML) and Quantum LSTM (QLSTM).
+- Tools/Libraries:PyTorch, TensorFlow, Scikit learn, YOLOv8, NumPy, Pandas, Matplotlib, OpenCV, Librosa, FastAPI, React.js, Docker, Git, GitHub, Jupyter Notebook, Streamlit, Gradio, Render, Linux Ubuntu, Roboflow, CVAT
+
+ ---- 
+
 
 ### 📊 Data Science & Machine Learning Intern – Excel R  
 📅 May 2025 – July 2025 (Online)
